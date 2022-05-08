@@ -1,14 +1,14 @@
 # basic options
-title: Vakantie MAAND JAAR - BESTEMMING
+title: Vakantie Juni 2022 - Frankrijk
 author: Kees
-description: Blog van de vakantie van MAAND JAAR
+description: Blog van de vakantie van Juni 2022
 
 # URL to GitHub repo
-baseurl: "/template-vakantie-blog" 
+baseurl: "/2022-06-frankrijk" 
 url: "https://prudento-nl.github.io" 
 
 # URL to images folder at GitHub repo LET OP het format van de link met de PUNT!
-images: "https://prudento-nl.github.io/template-vakantie-blog/images"
+images: "https://prudento-nl.github.io/2022-06-frankrijk/images"
 
 # Build settings
 markdown: kramdown
